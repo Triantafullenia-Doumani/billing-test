@@ -1,5 +1,7 @@
 # [GitHub billing](https://docs.github.com/en/rest/reference/billing)
 
+Any free account has limited minutes for use(2000 action minutes per month for private repositories. Limits are per user/organization). By default, Actions will stop running when they are exceeded.
+
 [An introduction to curl using GitHub's API.](https://gist.github.com/joyrexus/85bf6b02979d8a7b0308)
 
 
