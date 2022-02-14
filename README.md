@@ -1,4 +1,4 @@
-# billing-test-repo
+# billing-test
 
 Test repo to retrieve billing info 
 
