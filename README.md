@@ -1,8 +1,6 @@
 # billing-test
 
-Test repo to retrieve billing info 
-
- # [GitHub billing](https://docs.github.com/en/rest/reference/billing)
+# [GitHub billing](https://docs.github.com/en/rest/reference/billing)
 
 [An introduction to curl using GitHub's API.](https://gist.github.com/joyrexus/85bf6b02979d8a7b0308)
 
