@@ -12,7 +12,7 @@ curl https://api.github.com
 
 # [Getting started with the REST API](https://docs.github.com/en/rest/guides/getting-started-with-the-rest-api)
 
-## Authentication
+## Authentication 🐾
 
 ### Basic authentication
 
